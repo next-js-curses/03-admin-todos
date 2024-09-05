@@ -6,7 +6,7 @@ export interface Product {
   image : string;
 }
 
-export const products:Product[] = [
+export const products: Product[] = [
   {
     id: 'UUID-ABC-1',
     name: 'Teslo Hoodie',
